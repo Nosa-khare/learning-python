@@ -1,2 +1,2 @@
-# NosakhareEdokpayi
-Start.ng Git coding task
+# Code samples
+codes of various basic python concepts
