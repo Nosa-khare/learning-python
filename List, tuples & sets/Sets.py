@@ -9,7 +9,7 @@ print(cs_courses)  # Sets remove duplicate vaues
 
 
 # Membership test
-print('CompSci' in cs_courses)  # Sets are more optimized for this operation than lists/tuples
+print('CompSci' in cs_courses)  # Sets are optimized for this operation than lists/tuples
 
 art_courses = {'History', 'Math', 'Fine Art', 'Design'}
 
