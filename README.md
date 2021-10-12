@@ -1,2 +1,1 @@
-# Code samples
-codes of various basic python concepts
+# Python topics for beginners
