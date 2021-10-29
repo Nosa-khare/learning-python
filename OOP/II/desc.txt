@@ -1,0 +1,1 @@
+Codes on regular methods, classmethods and staticmethods in classes
